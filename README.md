@@ -6,7 +6,7 @@ a simple sidescroll game! Using the Pygame python module.
  
  
 
-#Instructions: 
+# Instructions: 
 
 
 simply start main.py and have fun playing my game.
