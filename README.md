@@ -1,7 +1,10 @@
 # GEO-Run
 a simple sidescroll game! Using the Pygame python module.
 
-
+ 
+ 
+ 
+ 
 
 #Instructions: 
 
